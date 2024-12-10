@@ -32,7 +32,7 @@ To install and use this application locally, please follow these steps:
     `npm install` 
 
 ## Usage
-To use the Weather_Dashboard locally you will run:
+To use the portfolio locally you will run:
 
     `npm run dev`
 
