@@ -45,9 +45,6 @@ export default function Portfolio() {
                             <a href="https://github.com/allenarnoldy/vehicle_builder" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
                             <figure className="page-section flex-item1 pastel-puzzles" style={{ backgroundImage: `url(${image4})` }}>
                                 <h3>Vehicle Builder GH</h3>
-                                <a href="https://github.com/allenarnoldy/weather_dashboard" target="_blank" rel="noopener noreferrer">
-                                    <h3>Github</h3>
-                                </a>
                             </figure>
                             </a>
                             <a href="https://allenarnoldy.github.io/project1/" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
@@ -58,9 +55,9 @@ export default function Portfolio() {
                                 </a>
                             </figure>
                             </a>
-                            <a href="https://allenarnoldy.github.io/project1/" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
+                            <a href="https://github.com/allenarnoldy/ReadMe_Generator" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
                             <figure className="page-section flex-item1 awesome_7"style={{ backgroundImage: `url(${image6})` }}>
-                                <h3>ReadMe Generator</h3>
+                                <h3>ReadMe Generator GH</h3>
                             </figure>
                             </a>
                             <a href="https://tangerine-sawine-f59f70.netlify.app/" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
