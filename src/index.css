@@ -14,7 +14,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -23,7 +24,6 @@ body {
 h1 {
   font-size: 200%;
   margin: 0;
-
 }
 h2 {
   margin: 2% 0;
@@ -52,7 +52,7 @@ ul li a {
 }
 
 ul li a:hover {
-  color: var(--primary)
+  color: var(--primary);
 }
 
 .container {
@@ -125,7 +125,11 @@ nav a {
   padding: 5px 10px;
   color: var(--secondary);
   margin-right: 10px;
-  background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
+  background-image: linear-gradient(
+    270deg,
+    var(--secondary) 0%,
+    var(--secondary) 100%
+  );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -257,32 +261,32 @@ footer h4 {
 }
 
 .flex-item:hover {
-background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .flex-item div {
-background-color: var(--secondary);
-padding: 8px 10px;
+  background-color: var(--secondary);
+  padding: 8px 10px;
 }
 
 .flex-item h3 {
-background-color: var(--secondary);
-color: var(--tertiary);
-margin: 0;
-padding: 5px 10px;
-font-size: 2.3rem;
-line-height: 1.2;
-display: inline;
+  background-color: var(--secondary);
+  color: var(--tertiary);
+  margin: 0;
+  padding: 5px 10px;
+  font-size: 2.3rem;
+  line-height: 1.2;
+  display: inline;
 }
 
 .flex-item-link {
-text-decoration: none;
-color: inherit; /* Inherit the color from parent elements */
-display: block; /* Make the entire figure clickable */
+  text-decoration: none;
+  color: inherit; /* Inherit the color from parent elements */
+  display: block; /* Make the entire figure clickable */
 }
 
 .flex-item-link:hover .flex-item {
-background-color: rgba(0, 0, 0, 0.3); /* Keep hover effect for the box */
+  background-color: rgba(0, 0, 0, 0.3); /* Keep hover effect for the box */
 }
 
 .flex2 {
@@ -368,7 +372,6 @@ body {
   background-color: #4cae4c;
 }
 
-
 .flex-item1 {
   border: 5px solid var(--secondary);
   background-color: var(--primary);
@@ -388,28 +391,28 @@ body {
 }
 
 .flex-item1:first-child {
-min-height: 150px;
-flex-basis: 100%;
-flex-basis: calc(50% - 1em);
+  min-height: 150px;
+  flex-basis: 100%;
+  flex-basis: calc(50% - 1em);
 }
 
 .flex-item1:hover {
-background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .flex-item1 div {
-background-color: var(--secondary);
-padding: 8px 10px;
+  background-color: var(--secondary);
+  padding: 8px 10px;
 }
 
 .flex-item1 h3 {
-background-color: var(--secondary);
-color: var(--tertiary);
-margin: 0;
-padding: 5px 10px;
-font-size: 2.3rem;
-line-height: 1.2;
-display: inline;
+  background-color: var(--secondary);
+  color: var(--tertiary);
+  margin: 0;
+  padding: 5px 10px;
+  font-size: 2.3rem;
+  line-height: 1.2;
+  display: inline;
 }
 
 .contact address {
@@ -426,7 +429,11 @@ display: inline;
   text-decoration: none;
   font-size: 1.3rem;
   font-style: normal;
-  background-image: linear-gradient(270deg, var(--primary) 0%, var(--primary) 100%);
+  background-image: linear-gradient(
+    270deg,
+    var(--primary) 0%,
+    var(--primary) 100%
+  );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -485,12 +492,12 @@ display: inline;
 .contact-form input:focus,
 .contact-form textarea:focus {
   outline: none;
-  border-color: #007BFF;
+  border-color: #007bff;
 }
 
 .contact-form .submit-button {
   padding: 10px 20px;
-  background-color: #007BFF;
+  background-color: #007bff;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -504,19 +511,19 @@ display: inline;
 }
 
 .side-heading {
-    flex: 0 0 11%; 
-    text-align: left;
-    margin-right: 40px;
-    margin-left: 16px;
-    padding-right: 4px; 
-    border-right: 4px solid var(--primary); 
-    font-size: 250%; 
-    line-height: auto;
+  flex: 0 0 11%;
+  text-align: left;
+  margin-right: 40px;
+  margin-left: 16px;
+  padding-right: 4px;
+  border-right: 4px solid var(--primary);
+  font-size: 250%;
+  line-height: auto;
 }
 
 .flex-item-wrapper {
   width: 100%;
-  flex: 0 0 77%; 
+  flex: 0 0 77%;
   margin-top: 32px;
   margin-left: 20px;
 }
@@ -568,8 +575,8 @@ display: inline;
 
 .contact-form .submit-button {
   padding: 10px 20px;
-  background-color: #588157; 
-  color: #fff; 
+  background-color: #588157;
+  color: #fff;
   border: none;
   border-radius: 5px;
   font-size: 1rem;
@@ -578,7 +585,7 @@ display: inline;
 }
 
 .contact-form .submit-button:hover {
-  background-color: #456445; 
+  background-color: #456445;
 }
 
 .about-me-container {
@@ -587,7 +594,7 @@ display: inline;
   align-items: center;
   min-height: 75vh;
   background: var(--light);
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   padding: 20px;
 }
 
@@ -629,9 +636,9 @@ display: inline;
 .btn-primary {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #588157; 
-  color: #fff; 
-  text-decoration: none; 
+  background-color: #588157;
+  color: #fff;
+  text-decoration: none;
   border: none;
   border-radius: 5px;
   font-size: 1rem;
@@ -640,12 +647,11 @@ display: inline;
 }
 
 .btn-primary:hover {
-  background-color: #456445; 
+  background-color: #456445;
 }
 
 @media screen and (max-width: 768px) {
   .flex-item1 {
-      flex-basis: 100%; /* Full width when stacked */
+    flex-basis: 100%; /* Full width when stacked */
   }
 }
-
