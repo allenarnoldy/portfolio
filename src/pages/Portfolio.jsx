@@ -5,7 +5,7 @@ import weatherapp from '../assets/images/weatherapp.jpg';
 import Horisean from '../assets/images/Horisean.jpg';
 import image3 from '../assets/images/employeeTracker.jpg';
 import image4 from '../assets/images/vehicleBuilder.jpg';
-import image5 from '../assets/images/walletWatchers.jpg';
+import image5 from '../assets/images/WalletWatchers.jpg';
 import image6 from '../assets/images/readMe.jpg';
 import image7 from '../assets/images/portfolio.jpg';
 
