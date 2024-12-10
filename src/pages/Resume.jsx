@@ -7,7 +7,7 @@ export default function ResumePage() {
           href="https://docs.google.com/document/d/1ryFJLDSTkbjmRTdPBG4szWpLAT-bEVEeTWIxTGfjBMo/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
-          class="btn btn-primary"
+          className="btn btn-primary"
         >
           Download my Resume
         </a>
