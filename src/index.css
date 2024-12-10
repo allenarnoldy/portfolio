@@ -54,6 +54,7 @@ ul li a {
 ul li a:hover {
   color: var(--primary)
 }
+
 .container {
   width: 100%;
   margin: auto;
