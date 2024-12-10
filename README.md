@@ -38,7 +38,7 @@ To use the portfolio locally you will run:
 
 You can also visit the live page:
 
-    TBD
+    https://tangerine-sawine-f59f70.netlify.app/
 
 ## License
 

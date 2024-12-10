@@ -63,7 +63,7 @@ export default function Portfolio() {
                                 <h3>ReadMe Generator</h3>
                             </figure>
                             </a>
-                            <a href="https://allenarnoldy.github.io/project1/" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
+                            <a href="https://tangerine-sawine-f59f70.netlify.app/" target="_blank" rel="noopener noreferrer" className="flex-item-link flex2">
                             <figure className="page-section flex-item1 awesome_8"style={{ backgroundImage: `url(${image7})` }}>
                                 <h3>Portfolio</h3>
                                 <a href="https://github.com/allenarnoldy/portfolio" target="_blank" rel="noopener noreferrer">
